@@ -1,2 +1,0 @@
-hello all
-lineno 2 chnaged
